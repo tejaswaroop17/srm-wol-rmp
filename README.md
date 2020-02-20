@@ -13,4 +13,4 @@ For connecting Topic page with home and quiz page, change the link address accor
 
 For connecting Quiz page with home and topic page, change the link address accordingly in (Quiz.html) line: 16,17.
 
-In Home page their is a button named "Start Learning". I have linked it to "Topics page", please change the link address accordingly.
+In Home page their is a button named "Start Learning". I have linked it to "Topics page", please change the link address accordingly. line: 35
